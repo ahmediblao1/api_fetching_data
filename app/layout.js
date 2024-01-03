@@ -13,7 +13,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-      <div className='flex justify-center items-center gap-5'>
+      <div className='flex justify-center items-center gap-5 bg-gradient-to-br
+       from-transparent text-white to-[#000000] h-14'>
       <Link href="/">Home</Link>
       <Link href="/posts">Posts</Link>
       <Link href="/articales">Articales</Link>
