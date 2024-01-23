@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
        from-transparent text-white to-[#448585] h-14'>
       <Link href="/">Home</Link>
       <Link href="/posts">Posts</Link>
-      <Link href="/articales">Articales </Link>
+      <Link href="/articales">Articales</Link>
       </div>
       {children}
       </body>
