@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
       <div className='flex justify-center items-center gap-5 bg-gradient-to-br
        from-transparent text-white to-[#448585] h-14'>
-      <Link href="/">Home </Link>
+      <Link href="/">Home</Link>
       <Link href="/posts">Posts </Link>
       <Link href="/articales">Articales </Link>
       </div>
